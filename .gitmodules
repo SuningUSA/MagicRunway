@@ -1,0 +1,3 @@
+[submodule "Assets/MRCore"]
+	path = Assets/MRCore
+	url = https://github.com/ussuning/MRCore.git
